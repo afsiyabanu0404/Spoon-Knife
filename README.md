@@ -14,7 +14,6 @@ This project demonstrates collaborative development
 using Git and GitHub.
 
 ### Contribution Workflow
-
 - Fork the repository.
 - Clone the repository locally.
 - Create a feature branch.
